@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="73bfb73d-1a7a-49aa-aaa1-958d0d2fadac" name="Changes" comment="2 Created inherited class Student(Person).">
+    <list default="true" id="73bfb73d-1a7a-49aa-aaa1-958d0d2fadac" name="Changes" comment="3 Edited inherited class Student(Person).">
+      <change afterPath="$PROJECT_DIR$/main2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,6 +28,18 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "KostiantynPolishko1"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/KostiantynPolishko1/PycharmC2126.git",
+    "accountId": "b6365245-027d-4cf3-a3a3-ad177d6d2ae3"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -39,6 +52,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.main.executor": "Run",
+    "Python.main2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "devLesson4"
   }
@@ -47,6 +61,11 @@
     <force-push-targets>
       <force-push-target remote-path="origin" branch="devLesson4" />
     </force-push-targets>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\polishko_k\PycharmC2126\PycharmC2126" />
+    </key>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -80,12 +99,21 @@
       <option name="project" value="LOCAL" />
       <updated>1714206986120</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="3 Edited inherited class Student(Person).">
+      <option name="closed" value="true" />
+      <created>1714207635802</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1714207635802</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1 Created class Person." />
     <MESSAGE value="2 Created inherited class Student(Person)." />
-    <option name="LAST_COMMIT_MESSAGE" value="2 Created inherited class Student(Person)." />
+    <MESSAGE value="3 Edited inherited class Student(Person)." />
+    <option name="LAST_COMMIT_MESSAGE" value="3 Edited inherited class Student(Person)." />
   </component>
 </project>

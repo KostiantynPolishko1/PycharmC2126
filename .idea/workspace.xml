@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="73bfb73d-1a7a-49aa-aaa1-958d0d2fadac" name="Changes" comment="3 Edited inherited class Student(Person).">
-      <change afterPath="$PROJECT_DIR$/main2.py" afterDir="false" />
+    <list default="true" id="73bfb73d-1a7a-49aa-aaa1-958d0d2fadac" name="Changes" comment="4 Introinspection.">
+      <change afterPath="$PROJECT_DIR$/main6.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,7 +23,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="devLesson3" />
+        <entry key="$PROJECT_DIR$" value="devLesson4" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -53,8 +53,9 @@
   "keyToString": {
     "Python.main.executor": "Run",
     "Python.main2.executor": "Run",
+    "Python.main6.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "devLesson4"
+    "git-widget-placeholder": "devLesson6"
   }
 }]]></component>
   <component name="Push.Settings">
@@ -107,13 +108,33 @@
       <option name="project" value="LOCAL" />
       <updated>1714207635802</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="4 Introinspection.">
+      <option name="closed" value="true" />
+      <created>1714809125643</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1714809125643</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1 Created class Person." />
     <MESSAGE value="2 Created inherited class Student(Person)." />
     <MESSAGE value="3 Edited inherited class Student(Person)." />
-    <option name="LAST_COMMIT_MESSAGE" value="3 Edited inherited class Student(Person)." />
+    <MESSAGE value="4 Introinspection." />
+    <option name="LAST_COMMIT_MESSAGE" value="4 Introinspection." />
   </component>
 </project>

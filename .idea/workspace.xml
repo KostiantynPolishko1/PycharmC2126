@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="73bfb73d-1a7a-49aa-aaa1-958d0d2fadac" name="Changes" comment="1 Described try-except-finally.">
-      <change afterPath="$PROJECT_DIR$/main7.py" afterDir="false" />
+    <list default="true" id="73bfb73d-1a7a-49aa-aaa1-958d0d2fadac" name="Changes" comment="2 description closure function">
+      <change afterPath="$PROJECT_DIR$/main7_1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,6 +55,7 @@
     "Python.main2.executor": "Run",
     "Python.main6.executor": "Run",
     "Python.main7.executor": "Run",
+    "Python.main7_1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "devLesson7"
   }
@@ -125,7 +126,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714810907802</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="2 description closure function">
+      <option name="closed" value="true" />
+      <created>1715411513575</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1715411513575</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -145,6 +154,7 @@
     <MESSAGE value="3 Edited inherited class Student(Person)." />
     <MESSAGE value="4 Introinspection." />
     <MESSAGE value="1 Described try-except-finally." />
-    <option name="LAST_COMMIT_MESSAGE" value="1 Described try-except-finally." />
+    <MESSAGE value="2 description closure function" />
+    <option name="LAST_COMMIT_MESSAGE" value="2 description closure function" />
   </component>
 </project>

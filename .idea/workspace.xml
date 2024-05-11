@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="73bfb73d-1a7a-49aa-aaa1-958d0d2fadac" name="Changes" comment="4 Introinspection.">
-      <change afterPath="$PROJECT_DIR$/main6.py" afterDir="false" />
+    <list default="true" id="73bfb73d-1a7a-49aa-aaa1-958d0d2fadac" name="Changes" comment="1 Described try-except-finally.">
+      <change afterPath="$PROJECT_DIR$/main7.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,23 +23,23 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="devLesson4" />
+        <entry key="$PROJECT_DIR$" value="devLesson6" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "KostiantynPolishko1"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;KostiantynPolishko1&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/KostiantynPolishko1/PycharmC2126.git",
-    "accountId": "b6365245-027d-4cf3-a3a3-ad177d6d2ae3"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/KostiantynPolishko1/PycharmC2126.git&quot;,
+    &quot;accountId&quot;: &quot;b6365245-027d-4cf3-a3a3-ad177d6d2ae3&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -54,8 +54,9 @@
     "Python.main.executor": "Run",
     "Python.main2.executor": "Run",
     "Python.main6.executor": "Run",
+    "Python.main7.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "devLesson6"
+    "git-widget-placeholder": "devLesson7"
   }
 }]]></component>
   <component name="Push.Settings">
@@ -116,7 +117,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714809125643</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="1 Described try-except-finally.">
+      <option name="closed" value="true" />
+      <created>1714810907802</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1714810907802</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -135,6 +144,7 @@
     <MESSAGE value="2 Created inherited class Student(Person)." />
     <MESSAGE value="3 Edited inherited class Student(Person)." />
     <MESSAGE value="4 Introinspection." />
-    <option name="LAST_COMMIT_MESSAGE" value="4 Introinspection." />
+    <MESSAGE value="1 Described try-except-finally." />
+    <option name="LAST_COMMIT_MESSAGE" value="1 Described try-except-finally." />
   </component>
 </project>

@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="73bfb73d-1a7a-49aa-aaa1-958d0d2fadac" name="Changes" comment="4 description __str__ method in class">
-      <change afterPath="$PROJECT_DIR$/main8.py" afterDir="false" />
+    <list default="true" id="73bfb73d-1a7a-49aa-aaa1-958d0d2fadac" name="Changes" comment="4 description logging of exception.">
+      <change afterPath="$PROJECT_DIR$/Lesson10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main8_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_main8_2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,7 +26,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="devLesson6" />
+        <entry key="$PROJECT_DIR$" value="devLesson9" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -51,18 +54,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.main.executor": "Run",
-    "Python.main2.executor": "Run",
-    "Python.main6.executor": "Run",
-    "Python.main7.executor": "Run",
-    "Python.main7_1.executor": "Run",
-    "Python.main8.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "devLesson7"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests for test_main8_2.FunctionTest.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_main8_2.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main7_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main8.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;devLesson10&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="Push.Settings">
     <force-push-targets>
       <force-push-target remote-path="origin" branch="devLesson4" />
@@ -73,6 +81,28 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\polishko_k\PycharmC2126\PycharmC2126" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Python tests for test_main8_2.FunctionTest" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PycharmC2126" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_main8_2.FunctionTest&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for test_main8_2.FunctionTest" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -154,7 +184,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715413353999</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="4 description logging of exception.">
+      <option name="closed" value="true" />
+      <created>1715415162676</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1715415162676</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -177,6 +215,18 @@
     <MESSAGE value="2 description closure function" />
     <MESSAGE value="3 description closure method in class" />
     <MESSAGE value="4 description __str__ method in class" />
-    <option name="LAST_COMMIT_MESSAGE" value="4 description __str__ method in class" />
+    <MESSAGE value="4 description logging of exception." />
+    <option name="LAST_COMMIT_MESSAGE" value="4 description logging of exception." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Lesson9.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
